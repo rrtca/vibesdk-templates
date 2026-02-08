@@ -1,0 +1,18 @@
+[
+  "src/components/ui/",
+  "node_modules/",
+  ".git/",
+  "bun.lock",
+  ".wrangler/",
+  "dist/",
+  "dist-ssr/",
+  ".vscode/",
+  ".idea/",
+  "*.log",
+  ".DS_Store",
+  ".eslintcache",
+  ".env",
+  ".env.*",
+  ".dev.vars",
+  ".dev.vars.*"
+]

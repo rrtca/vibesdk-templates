@@ -1,0 +1,18 @@
+[
+  "package.json",
+  "vite.config.ts",
+  "tailwind.config.ts",
+  "tsconfig.json",
+  "tsconfig.app.json",
+  "components.json",
+  "src/main.tsx",
+  "src/index.css",
+  "src/routes/",
+  "src/components/Header.tsx",
+  "src/components/ThemeToggle.tsx",
+  "src/components/ThemeSwitcher.tsx",
+  "src/lib/utils.ts",
+  "src/hooks/",
+  "wrangler.jsonc",
+  "worker/"
+]
